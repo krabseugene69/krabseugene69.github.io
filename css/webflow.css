@@ -2197,7 +2197,7 @@ p {
 
 .gallery-thumbnail {
   width: 100%;
-  height: 100%;
+  height: 204.66px;
   -o-object-fit: cover;
   object-fit: cover;
   -o-object-position: 50% 50%;
